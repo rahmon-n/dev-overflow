@@ -2,6 +2,6 @@
   "jsxSingleQuote": true,
   "singleQuote": true,
   "bracketSameLine": false,
-  "printWidth": 100,
+  "printWidth": 90,
   "semi": true
 }
